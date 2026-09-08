@@ -5,15 +5,15 @@ about:
   head: c88fbe9
   archived: false
   latestVersion: "v2.7.1"
-  collectedAt: 2026-09-08T02:14:53Z
+  collectedAt: 2026-09-08T04:50:10Z
 timeline:
   created: 2013-07-14
   lastCommit: 2026-03-04
   lastRelease: 2026-03-04
 popularity:
-  star: 25080
+  star: 25081
   watcher: 223
-  fork: 2274
+  fork: 2273
   release: 31
   contributor: 293
   pullRequest: 1293
@@ -84,7 +84,7 @@ total:
   commit: 3143
 ---
 path: /home/runner/.x-repo/github.com/cookiecutter/cookiecutter
-collectedAt: 2026-09-08T02:14:54Z
+collectedAt: 2026-09-08T04:50:11Z
 loc:
   Python:
     code: 7607
