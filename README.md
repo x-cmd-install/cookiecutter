@@ -4,7 +4,7 @@
 
 A cross-platform command-line utility that creates projects from cookiecutters (project templates), e.g. Python package projects, C projects.
 
-![cookiecutter](https://repo.x-cmd.io/cookiecutter.svg)
+[![x-cmd/install — cookiecutter Code Quality Monitoring Repo Card](https://repo.x-cmd.io/cookiecutter.svg)](https://x-cmd.com/install/cookiecutter)
 
 ## Install
 
@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 25,091 · **Forks**: 2,277 · **Open issues**: 898 · **Contributors**: 293
+- **Stars**: 25,094 · **Forks**: 2,278 · **Open issues**: 898 · **Contributors**: 293
 
 ## Totals (cumulative)
 
-- **Releases**: 31 · **Merged PRs**: 758 · **Open PRs**: 82 · **Closed issues**: 667 · **Open issues**: 231 · **Commits**: 3143
+- **Releases**: 31 · **Merged PRs**: 758 · **Open PRs**: 83 · **Closed issues**: 667 · **Open issues**: 231 · **Commits**: 3143
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 0 | 4 | 0 | 0 | 0 |
-| last60d | 2026-07-20 | 0 | 0 | 11 | 0 | 1 | 0 |
-| 90d | 2026-06-20 | 0 | 0 | 15 | 0 | 1 | 0 |
-| last180d | 2026-03-22 | 0 | 0 | 36 | 0 | 6 | 0 |
-| 360d | 2025-09-23 | 2 | 4 | 47 | 4 | 11 | 41 |
-| last720d | 2024-09-28 | 2 | 15 | 57 | 11 | 26 | 59 |
+| 30d | 2026-08-21 | 0 | 0 | 4 | 0 | 0 | 0 |
+| last60d | 2026-07-22 | 0 | 0 | 12 | 0 | 1 | 0 |
+| 90d | 2026-06-22 | 0 | 0 | 16 | 0 | 1 | 0 |
+| last180d | 2026-03-24 | 0 | 0 | 37 | 0 | 5 | 0 |
+| 360d | 2025-09-25 | 2 | 4 | 48 | 4 | 11 | 41 |
+| last720d | 2024-09-30 | 2 | 15 | 58 | 11 | 26 | 59 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for cookiecutter lives in the [x-cmd/install](https://github.co
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T05:03:39Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T05:08:38Z._
