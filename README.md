@@ -4,7 +4,7 @@
 
 A cross-platform command-line utility that creates projects from cookiecutters (project templates), e.g. Python package projects, C projects.
 
-[![x-cmd/install — cookiecutter Code Quality Monitoring Repo Card](https://repo.x-cmd.io/cookiecutter.svg)](https://x-cmd.com/install/cookiecutter)
+[![x-cmd/install — cookiecutter Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/cookiecutter.svg)](https://x-cmd.com/install/cookiecutter)
 
 ## Install
 
@@ -30,8 +30,8 @@ Overall score: **5.6 / 10**
 
 Lowest-scoring checks:
 
-- **Maintained** (0/10) — 0 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 0
 - **Code-Review** (0/10) — Found 0/28 approved changesets -- score normalized to 0
+- **Maintained** (0/10) — 0 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 0
 - **Pinned-Dependencies** (3/10) — dependency not pinned by hash detected -- score normalized to 3
 
 ## Source
@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 25,100 · **Forks**: 2,279 · **Open issues**: 898 · **Contributors**: 293
+- **Stars**: 25,104 · **Forks**: 2,283 · **Open issues**: 898 · **Contributors**: 293
 
 ## Totals (cumulative)
 
-- **Releases**: 31 · **Merged PRs**: 758 · **Open PRs**: 85 · **Closed issues**: 667 · **Open issues**: 231 · **Commits**: 3143
+- **Releases**: 31 · **Merged PRs**: 758 · **Open PRs**: 87 · **Closed issues**: 667 · **Open issues**: 231 · **Commits**: 3143
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 0 | 6 | 0 | 0 | 0 |
-| last60d | 2026-07-24 | 0 | 0 | 14 | 0 | 1 | 0 |
-| 90d | 2026-06-24 | 0 | 0 | 17 | 0 | 1 | 0 |
-| last180d | 2026-03-26 | 0 | 0 | 38 | 0 | 5 | 0 |
-| 360d | 2025-09-27 | 2 | 4 | 50 | 4 | 11 | 41 |
-| last720d | 2024-10-02 | 2 | 15 | 60 | 11 | 25 | 59 |
+| 30d | 2026-08-24 | 0 | 0 | 8 | 0 | 0 | 0 |
+| last60d | 2026-07-25 | 0 | 0 | 16 | 0 | 1 | 0 |
+| 90d | 2026-06-25 | 0 | 0 | 19 | 0 | 1 | 0 |
+| last180d | 2026-03-27 | 0 | 0 | 40 | 0 | 5 | 0 |
+| 360d | 2025-09-28 | 2 | 4 | 52 | 3 | 11 | 41 |
+| last720d | 2024-10-03 | 2 | 15 | 62 | 11 | 25 | 59 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for cookiecutter lives in the [x-cmd/install](https://github.co
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T05:06:32Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T05:08:39Z._
