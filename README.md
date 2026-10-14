@@ -30,8 +30,8 @@ Overall score: **5.6 / 10**
 
 Lowest-scoring checks:
 
-- **Maintained** (0/10) — 0 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 0
 - **Code-Review** (0/10) — Found 0/28 approved changesets -- score normalized to 0
+- **Maintained** (0/10) — 0 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 0
 - **Pinned-Dependencies** (3/10) — dependency not pinned by hash detected -- score normalized to 3
 
 ## Source
@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 25,145 · **Forks**: 2,291 · **Open issues**: 900 · **Contributors**: 293
+- **Stars**: 25,146 · **Forks**: 2,294 · **Open issues**: 900 · **Contributors**: 293
 
 ## Totals (cumulative)
 
-- **Releases**: 31 · **Merged PRs**: 758 · **Open PRs**: 93 · **Closed issues**: 667 · **Open issues**: 233 · **Commits**: 3143
+- **Releases**: 31 · **Merged PRs**: 758 · **Open PRs**: 94 · **Closed issues**: 667 · **Open issues**: 233 · **Commits**: 3143
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-13 | 0 | 0 | 13 | 0 | 2 | 0 |
-| last60d | 2026-08-14 | 0 | 0 | 18 | 0 | 2 | 0 |
-| 90d | 2026-07-15 | 0 | 0 | 24 | 0 | 3 | 0 |
-| last180d | 2026-04-16 | 0 | 0 | 39 | 0 | 6 | 0 |
-| 360d | 2025-10-18 | 2 | 3 | 57 | 3 | 13 | 41 |
-| last720d | 2024-10-23 | 2 | 15 | 68 | 11 | 26 | 59 |
+| 30d | 2026-09-14 | 0 | 0 | 13 | 0 | 2 | 0 |
+| last60d | 2026-08-15 | 0 | 0 | 18 | 0 | 2 | 0 |
+| 90d | 2026-07-16 | 0 | 0 | 23 | 0 | 3 | 0 |
+| last180d | 2026-04-17 | 0 | 0 | 40 | 0 | 6 | 0 |
+| 360d | 2025-10-19 | 2 | 3 | 58 | 3 | 13 | 41 |
+| last720d | 2024-10-24 | 2 | 15 | 69 | 11 | 26 | 59 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for cookiecutter lives in the [x-cmd/install](https://github.co
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261013.yml` · 2026-10-13T07:11:43Z._
+_Snapshot: `data/card/261014.yml` · 2026-10-14T05:03:48Z._
