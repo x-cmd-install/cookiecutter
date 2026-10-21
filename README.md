@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 25,153 · **Forks**: 2,298 · **Open issues**: 902 · **Contributors**: 293
+- **Stars**: 25,157 · **Forks**: 2,300 · **Open issues**: 902 · **Contributors**: 293
 
 ## Totals (cumulative)
 
-- **Releases**: 31 · **Merged PRs**: 758 · **Open PRs**: 97 · **Closed issues**: 669 · **Open issues**: 233 · **Commits**: 3143
+- **Releases**: 31 · **Merged PRs**: 758 · **Open PRs**: 98 · **Closed issues**: 669 · **Open issues**: 233 · **Commits**: 3143
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-20 | 0 | 0 | 12 | 2 | 2 | 0 |
-| last60d | 2026-08-21 | 0 | 0 | 18 | 2 | 2 | 0 |
-| 90d | 2026-07-22 | 0 | 0 | 26 | 2 | 3 | 0 |
-| last180d | 2026-04-23 | 0 | 0 | 43 | 2 | 5 | 0 |
-| 360d | 2025-10-25 | 2 | 3 | 61 | 5 | 13 | 41 |
-| last720d | 2024-10-30 | 2 | 15 | 72 | 12 | 26 | 59 |
+| 30d | 2026-09-21 | 0 | 0 | 13 | 2 | 2 | 0 |
+| last60d | 2026-08-22 | 0 | 0 | 19 | 2 | 2 | 0 |
+| 90d | 2026-07-23 | 0 | 0 | 27 | 2 | 3 | 0 |
+| last180d | 2026-04-24 | 0 | 0 | 44 | 2 | 5 | 0 |
+| 360d | 2025-10-26 | 2 | 3 | 62 | 5 | 13 | 41 |
+| last720d | 2024-10-31 | 2 | 15 | 73 | 12 | 26 | 59 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for cookiecutter lives in the [x-cmd/install](https://github.co
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261020.yml` · 2026-10-20T04:56:13Z._
+_Snapshot: `data/card/261021.yml` · 2026-10-21T04:55:49Z._
