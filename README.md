@@ -30,8 +30,8 @@ Overall score: **5.6 / 10**
 
 Lowest-scoring checks:
 
-- **Code-Review** (0/10) — Found 0/28 approved changesets -- score normalized to 0
 - **Maintained** (0/10) — 0 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 0
+- **Code-Review** (0/10) — Found 0/28 approved changesets -- score normalized to 0
 - **Pinned-Dependencies** (3/10) — dependency not pinned by hash detected -- score normalized to 3
 
 ## Source
@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 25,171 · **Forks**: 2,305 · **Open issues**: 902 · **Contributors**: 293
+- **Stars**: 25,170 · **Forks**: 2,304 · **Open issues**: 902 · **Contributors**: 293
 
 ## Totals (cumulative)
 
@@ -57,12 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-27 | 0 | 0 | 12 | 2 | 1 | 0 |
-| last60d | 2026-08-28 | 0 | 0 | 19 | 2 | 2 | 0 |
-| 90d | 2026-07-29 | 0 | 0 | 28 | 2 | 3 | 0 |
-| last180d | 2026-04-30 | 0 | 0 | 43 | 2 | 4 | 0 |
-| 360d | 2025-11-01 | 2 | 3 | 63 | 5 | 13 | 41 |
-| last720d | 2024-11-06 | 2 | 15 | 74 | 12 | 26 | 59 |
+| 30d | 2026-09-28 | 0 | 0 | 12 | 2 | 1 | 0 |
+| last60d | 2026-08-29 | 0 | 0 | 19 | 2 | 2 | 0 |
+| 90d | 2026-07-30 | 0 | 0 | 28 | 2 | 3 | 0 |
+| last180d | 2026-05-01 | 0 | 0 | 43 | 2 | 4 | 0 |
+| 360d | 2025-11-02 | 2 | 3 | 63 | 5 | 13 | 41 |
+| last720d | 2024-11-07 | 2 | 15 | 74 | 12 | 26 | 59 |
 
 ## Distribution status
 
@@ -92,4 +92,4 @@ Install metadata for cookiecutter lives in the [x-cmd/install](https://github.co
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261027.yml` · 2026-10-27T05:22:13Z._
+_Snapshot: `data/card/261028.yml` · 2026-10-28T05:50:48Z._
