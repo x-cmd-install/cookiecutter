@@ -7,7 +7,7 @@ about:
   latestVersion: "v2.7.1"
   latestRelease: "v2.7.1"
   latestPrerelease: ""
-  collectedAt: 2026-10-29T06:00:04Z
+  collectedAt: 2026-10-30T05:58:46Z
 timeline:
   created: 2013-07-14
   lastCommit: 2026-03-04
@@ -15,9 +15,9 @@ timeline:
   lastRelease: 2026-03-04
   lastPrerelease: 
 popularity:
-  star: 25171
+  star: 25173
   watcher: 219
-  fork: 2303
+  fork: 2302
   release: 31
   contributor: 293
   pullRequest: 1312
@@ -32,7 +32,7 @@ language:
 totalBytes: 323856
 recent:
   last30d:
-    since: 2026-09-29
+    since: 2026-09-30
     release: 0
     mergedPR: 0
     openPR: 11
@@ -40,7 +40,7 @@ recent:
     openIssue: 1
     commit: 0
   last60d:
-    since: 2026-08-30
+    since: 2026-08-31
     release: 0
     mergedPR: 0
     openPR: 18
@@ -48,15 +48,15 @@ recent:
     openIssue: 2
     commit: 0
   last90d:
-    since: 2026-07-31
+    since: 2026-08-01
     release: 0
     mergedPR: 0
-    openPR: 27
+    openPR: 23
     closedIssue: 0
     openIssue: 3
     commit: 0
   last180d:
-    since: 2026-05-02
+    since: 2026-05-03
     release: 0
     mergedPR: 0
     openPR: 42
@@ -64,7 +64,7 @@ recent:
     openIssue: 4
     commit: 0
   last360d:
-    since: 2025-11-03
+    since: 2025-11-04
     release: 2
     mergedPR: 3
     openPR: 62
@@ -72,7 +72,7 @@ recent:
     openIssue: 13
     commit: 41
   last720d:
-    since: 2024-11-08
+    since: 2024-11-09
     release: 2
     mergedPR: 15
     openPR: 73
@@ -88,7 +88,7 @@ total:
   commit: 3143
 ---
 path: /home/runner/.x-repo/github.com/cookiecutter/cookiecutter
-collectedAt: 2026-10-29T06:00:05Z
+collectedAt: 2026-10-30T05:58:47Z
 loc:
   Python:
     code: 7607
