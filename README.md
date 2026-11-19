@@ -47,7 +47,7 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 25,184 · **Forks**: 2,304 · **Open issues**: 900 · **Contributors**: 293
+- **Stars**: 25,183 · **Forks**: 2,304 · **Open issues**: 900 · **Contributors**: 293
 
 ## Totals (cumulative)
 
@@ -57,16 +57,16 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-18 | 0 | 0 | 9 | 0 | 0 | 0 |
-| last60d | 2026-09-18 | 0 | 0 | 23 | 0 | 2 | 0 |
-| 90d | 2026-08-19 | 0 | 0 | 27 | 0 | 2 | 0 |
-| last180d | 2026-05-21 | 0 | 0 | 47 | 0 | 4 | 0 |
-| 360d | 2025-11-22 | 2 | 3 | 66 | 2 | 13 | 37 |
-| last720d | 2024-11-27 | 2 | 15 | 79 | 9 | 25 | 59 |
+| 30d | 2026-10-20 | 0 | 0 | 9 | 0 | 0 | 0 |
+| last60d | 2026-09-20 | 0 | 0 | 20 | 0 | 2 | 0 |
+| 90d | 2026-08-21 | 0 | 0 | 26 | 0 | 2 | 0 |
+| last180d | 2026-05-23 | 0 | 0 | 45 | 0 | 4 | 0 |
+| 360d | 2025-11-24 | 2 | 3 | 66 | 2 | 13 | 37 |
+| last720d | 2024-11-29 | 2 | 15 | 79 | 9 | 24 | 59 |
 
 ## Distribution status
 
-Reported by **111** distros on [repology.org](https://repology.org/project/cookiecutter). **36** are ✅ on the latest upstream release, **65** are ⚠️ on an older version.
+Reported by **110** distros on [repology.org](https://repology.org/project/cookiecutter). **36** are ✅ on the latest upstream release, **64** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -92,4 +92,4 @@ Install metadata for cookiecutter lives in the [x-cmd/install](https://github.co
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261117.yml` · 2026-11-17T09:09:26Z._
+_Snapshot: `data/card/261119.yml` · 2026-11-19T08:41:54Z._
