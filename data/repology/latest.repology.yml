@@ -1,3 +1,16 @@
+- repo: nix_stable_24_05
+  srcname: python311Packages.cookiecutter
+  visiblename: python3.11-cookiecutter
+  version: 2.6.0
+  origversion: null
+  status: outdated
+  summary: A command-line utility that creates projects from project templates
+  maintainers:
+    - louis@kragniz.eu
+  licenses:
+    - BSD-3-Clause
+  categories:
+    - python311Packages
 - repo: alpine_edge
   subrepo: testing
   srcname: py3-cookiecutter
@@ -89,19 +102,6 @@
   summary: A command-line utility that creates projects from project templates
   licenses:
     - BSD-3-Clause
-- repo: nix_stable_24_05
-  srcname: python312Packages.cookiecutter
-  visiblename: python3.12-cookiecutter
-  version: 2.6.0
-  origversion: null
-  status: outdated
-  summary: A command-line utility that creates projects from project templates
-  maintainers:
-    - louis@kragniz.eu
-  licenses:
-    - BSD-3-Clause
-  categories:
-    - python312Packages
 - repo: debian_13
   subrepo: trixie/main
   srcname: cookiecutter
@@ -237,34 +237,6 @@
     - BSD-3-Clause
   categories:
     - Unspecified
-- repo: nix_stable_24_05
-  srcname: python311Packages.cookiecutter
-  visiblename: python3.11-cookiecutter
-  version: 2.6.0
-  origversion: null
-  status: outdated
-  summary: A command-line utility that creates projects from project templates
-  maintainers:
-    - louis@kragniz.eu
-  licenses:
-    - BSD-3-Clause
-  categories:
-    - python311Packages
-- repo: fedora_40
-  subrepo: updates
-  srcname: python-cookiecutter
-  binnames:
-    - python-cookiecutter-doc
-    - python3-cookiecutter
-  visiblename: python-cookiecutter
-  version: 2.6.0
-  origversion: 2.6.0-2.fc40
-  status: outdated
-  summary: CLI utility to create projects from templates
-  licenses:
-    - BSD-3-Clause
-  categories:
-    - Unspecified
 - repo: fedora_40
   subrepo: release
   srcname: python-cookiecutter
@@ -280,7 +252,7 @@
     - BSD-3-Clause
   categories:
     - Unspecified
-- repo: fedora_41
+- repo: fedora_40
   subrepo: updates
   srcname: python-cookiecutter
   binnames:
@@ -288,7 +260,7 @@
     - python3-cookiecutter
   visiblename: python-cookiecutter
   version: 2.6.0
-  origversion: 2.6.0-4.fc41
+  origversion: 2.6.0-2.fc40
   status: outdated
   summary: CLI utility to create projects from templates
   licenses:
@@ -304,6 +276,21 @@
   visiblename: python-cookiecutter
   version: 2.6.0
   origversion: 2.6.0-3.fc41
+  status: outdated
+  summary: CLI utility to create projects from templates
+  licenses:
+    - BSD-3-Clause
+  categories:
+    - Unspecified
+- repo: fedora_41
+  subrepo: updates
+  srcname: python-cookiecutter
+  binnames:
+    - python-cookiecutter-doc
+    - python3-cookiecutter
+  visiblename: python-cookiecutter
+  version: 2.6.0
+  origversion: 2.6.0-4.fc41
   status: outdated
   summary: CLI utility to create projects from templates
   licenses:
@@ -410,6 +397,19 @@
     - BSD
   categories:
     - dev-util
+- repo: nix_stable_24_05
+  srcname: python312Packages.cookiecutter
+  visiblename: python3.12-cookiecutter
+  version: 2.6.0
+  origversion: null
+  status: outdated
+  summary: A command-line utility that creates projects from project templates
+  maintainers:
+    - louis@kragniz.eu
+  licenses:
+    - BSD-3-Clause
+  categories:
+    - python312Packages
 - repo: gentoo
   srcname: dev-util/cookiecutter
   visiblename: dev-util/cookiecutter
@@ -641,6 +641,21 @@
     - BSD
   categories:
     - python
+- repo: macports
+  srcname: python/py-cookiecutter
+  binname: py314-cookiecutter
+  visiblename: py314-cookiecutter
+  version: 2.7.1
+  origversion: null
+  status: newest
+  summary: A command-line utility that creates projects from project templates.
+  maintainers:
+    - reneeotten@macports
+    - reneeotten@github
+  licenses:
+    - BSD
+  categories:
+    - python
 - repo: nix_stable_24_05
   srcname: cookiecutter
   visiblename: cookiecutter
@@ -669,8 +684,8 @@
     - python
 - repo: macports
   srcname: python/py-cookiecutter
-  binname: py314-cookiecutter
-  visiblename: py314-cookiecutter
+  binname: py315-cookiecutter
+  visiblename: py315-cookiecutter
   version: 2.7.1
   origversion: null
   status: newest
@@ -829,8 +844,8 @@
   categories:
     - python312Packages
 - repo: nix_stable_25_05
-  srcname: cookiecutter
-  visiblename: cookiecutter
+  srcname: python312Packages.cookiecutter
+  visiblename: python3.12-cookiecutter
   version: 2.6.0
   origversion: null
   status: outdated
@@ -839,6 +854,8 @@
     - louis@kragniz.eu
   licenses:
     - BSD-3-Clause
+  categories:
+    - python312Packages
 - repo: nix_stable_25_05
   srcname: python313Packages.cookiecutter
   visiblename: python3.13-cookiecutter
@@ -853,8 +870,8 @@
   categories:
     - python313Packages
 - repo: nix_stable_25_05
-  srcname: python312Packages.cookiecutter
-  visiblename: python3.12-cookiecutter
+  srcname: cookiecutter
+  visiblename: cookiecutter
   version: 2.6.0
   origversion: null
   status: outdated
@@ -863,11 +880,9 @@
     - louis@kragniz.eu
   licenses:
     - BSD-3-Clause
-  categories:
-    - python312Packages
 - repo: nix_stable_25_11
-  srcname: python312Packages.cookiecutter
-  visiblename: python3.12-cookiecutter
+  srcname: cookiecutter
+  visiblename: cookiecutter
   version: 2.6.0
   origversion: null
   status: outdated
@@ -876,8 +891,6 @@
     - louis@kragniz.eu
   licenses:
     - BSD-3-Clause
-  categories:
-    - python312Packages
 - repo: nix_stable_25_11
   srcname: python313Packages.cookiecutter
   visiblename: python3.13-cookiecutter
@@ -892,6 +905,19 @@
   categories:
     - python313Packages
 - repo: nix_stable_25_11
+  srcname: python312Packages.cookiecutter
+  visiblename: python3.12-cookiecutter
+  version: 2.6.0
+  origversion: null
+  status: outdated
+  summary: Command-line utility that creates projects from project templates
+  maintainers:
+    - louis@kragniz.eu
+  licenses:
+    - BSD-3-Clause
+  categories:
+    - python312Packages
+- repo: nix_stable_26_05
   srcname: cookiecutter
   visiblename: cookiecutter
   version: 2.6.0
@@ -903,7 +929,7 @@
   licenses:
     - BSD-3-Clause
 - repo: nix_stable_26_05
-  srcname: python313Packages.cookiecutter
+  srcname: python314Packages.cookiecutter
   visiblename: cookiecutter
   version: 2.6.0
   origversion: null
@@ -914,18 +940,7 @@
   licenses:
     - BSD-3-Clause
   categories:
-    - python313Packages
-- repo: nix_stable_26_05
-  srcname: cookiecutter
-  visiblename: cookiecutter
-  version: 2.6.0
-  origversion: null
-  status: outdated
-  summary: Command-line utility that creates projects from project templates
-  maintainers:
-    - louis@kragniz.eu
-  licenses:
-    - BSD-3-Clause
+    - python314Packages
 - repo: pkgsrc_2026_2
   srcname: devel/py-cookiecutter
   binname: py313-cookiecutter
@@ -939,11 +954,37 @@
   categories:
     - devel
 - repo: nix_stable_26_05
-  srcname: python314Packages.cookiecutter
+  srcname: python313Packages.cookiecutter
   visiblename: cookiecutter
   version: 2.6.0
   origversion: null
   status: outdated
+  summary: Command-line utility that creates projects from project templates
+  maintainers:
+    - louis@kragniz.eu
+  licenses:
+    - BSD-3-Clause
+  categories:
+    - python313Packages
+- repo: nix_unstable
+  srcname: python313Packages.cookiecutter
+  visiblename: cookiecutter
+  version: 2.7.1
+  origversion: null
+  status: newest
+  summary: Command-line utility that creates projects from project templates
+  maintainers:
+    - louis@kragniz.eu
+  licenses:
+    - BSD-3-Clause
+  categories:
+    - python313Packages
+- repo: nix_unstable
+  srcname: python314Packages.cookiecutter
+  visiblename: cookiecutter
+  version: 2.7.1
+  origversion: null
+  status: newest
   summary: Command-line utility that creates projects from project templates
   maintainers:
     - louis@kragniz.eu
@@ -962,32 +1003,6 @@
     - louis@kragniz.eu
   licenses:
     - BSD-3-Clause
-- repo: nix_unstable
-  srcname: python314Packages.cookiecutter
-  visiblename: cookiecutter
-  version: 2.7.1
-  origversion: null
-  status: newest
-  summary: Command-line utility that creates projects from project templates
-  maintainers:
-    - louis@kragniz.eu
-  licenses:
-    - BSD-3-Clause
-  categories:
-    - python314Packages
-- repo: nix_unstable
-  srcname: python313Packages.cookiecutter
-  visiblename: cookiecutter
-  version: 2.7.1
-  origversion: null
-  status: newest
-  summary: Command-line utility that creates projects from project templates
-  maintainers:
-    - louis@kragniz.eu
-  licenses:
-    - BSD-3-Clause
-  categories:
-    - python313Packages
 - repo: openbsd
   srcname: devel/py-cookiecutter
   binname: py3-cookiecutter
