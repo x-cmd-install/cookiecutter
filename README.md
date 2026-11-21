@@ -47,26 +47,26 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 25,184 · **Forks**: 2,306 · **Open issues**: 900 · **Contributors**: 293
+- **Stars**: 25,184 · **Forks**: 2,305 · **Open issues**: 901 · **Contributors**: 293
 
 ## Totals (cumulative)
 
-- **Releases**: 31 · **Merged PRs**: 758 · **Open PRs**: 105 · **Closed issues**: 667 · **Open issues**: 233 · **Commits**: 3143
+- **Releases**: 31 · **Merged PRs**: 758 · **Open PRs**: 105 · **Closed issues**: 667 · **Open issues**: 234 · **Commits**: 3143
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-21 | 0 | 0 | 9 | 0 | 0 | 0 |
-| last60d | 2026-09-21 | 0 | 0 | 20 | 0 | 2 | 0 |
-| 90d | 2026-08-22 | 0 | 0 | 26 | 0 | 2 | 0 |
-| last180d | 2026-05-24 | 0 | 0 | 45 | 0 | 4 | 0 |
-| 360d | 2025-11-25 | 2 | 3 | 66 | 2 | 13 | 37 |
-| last720d | 2024-11-30 | 2 | 15 | 79 | 9 | 24 | 59 |
+| 30d | 2026-10-22 | 0 | 0 | 9 | 0 | 1 | 0 |
+| last60d | 2026-09-22 | 0 | 0 | 18 | 0 | 3 | 0 |
+| 90d | 2026-08-23 | 0 | 0 | 26 | 0 | 3 | 0 |
+| last180d | 2026-05-25 | 0 | 0 | 45 | 0 | 5 | 0 |
+| 360d | 2025-11-26 | 2 | 3 | 66 | 2 | 14 | 37 |
+| last720d | 2024-12-01 | 2 | 15 | 79 | 9 | 25 | 59 |
 
 ## Distribution status
 
-Reported by **111** distros on [repology.org](https://repology.org/project/cookiecutter). **37** are ✅ on the latest upstream release, **64** are ⚠️ on an older version.
+Reported by **110** distros on [repology.org](https://repology.org/project/cookiecutter). **37** are ✅ on the latest upstream release, **63** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -92,4 +92,4 @@ Install metadata for cookiecutter lives in the [x-cmd/install](https://github.co
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261120.yml` · 2026-11-20T09:47:14Z._
+_Snapshot: `data/card/261121.yml` · 2026-11-21T08:40:05Z._
