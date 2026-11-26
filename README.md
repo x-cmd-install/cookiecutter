@@ -57,31 +57,12 @@ Lowest-scoring checks:
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-26 | 0 | 0 | 11 | 0 | 1 | 0 |
-| last60d | 2026-09-26 | 0 | 0 | 22 | 0 | 2 | 0 |
-| 90d | 2026-08-27 | 0 | 0 | 29 | 0 | 3 | 0 |
-| last180d | 2026-05-29 | 0 | 0 | 47 | 0 | 4 | 0 |
-| 360d | 2025-11-30 | 2 | 3 | 68 | 2 | 14 | 37 |
-| last720d | 2024-12-05 | 2 | 15 | 81 | 9 | 23 | 59 |
-
-## Distribution status
-
-Reported by **109** distros on [repology.org](https://repology.org/project/cookiecutter). **37** are ✅ on the latest upstream release, **62** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Debian unstable | `2.6.0` | ⚠️ outdated |
-| Debian 14 | `2.6.0` | ⚠️ outdated |
-| Debian 13 | `2.6.0` | ⚠️ outdated |
-| Ubuntu 26.04 LTS | `2.6.0` | ⚠️ outdated |
-| Ubuntu 24.04 LTS | `2.6.0` | ⚠️ outdated |
-| Arch | `2.7.1` | ✅ latest |
-| Homebrew | `2.7.1` | ✅ latest |
-| Fedora rawhide | `2.7.1` | ✅ latest |
-| Nix unstable | `2.7.1` | ✅ latest |
-| Void | `2.7.1` | ✅ latest |
-| Alpine edge | `2.7.1` | ✅ latest |
-| openSUSE Tumbleweed | `2.6.0` | ⚠️ outdated |
+| 30d | 2026-10-27 | 0 | 0 | 11 | 0 | 1 | 0 |
+| last60d | 2026-09-27 | 0 | 0 | 22 | 0 | 2 | 0 |
+| 90d | 2026-08-28 | 0 | 0 | 29 | 0 | 3 | 0 |
+| last180d | 2026-05-30 | 0 | 0 | 47 | 0 | 4 | 0 |
+| 360d | 2025-12-01 | 2 | 3 | 68 | 2 | 14 | 0 |
+| last720d | 2024-12-06 | 2 | 15 | 81 | 9 | 23 | 59 |
 
 ## Improve this data
 
@@ -92,4 +73,4 @@ Install metadata for cookiecutter lives in the [x-cmd/install](https://github.co
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261125.yml` · 2026-11-25T08:41:51Z._
+_Snapshot: `data/card/261126.yml` · 2026-11-26T08:33:09Z._
